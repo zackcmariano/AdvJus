@@ -3,8 +3,11 @@
 
 # CRUD em PYTHON / Django
 
-## ° MySQL - Database usado na aplicação
+##       ° MySQL - Database usado na aplicação
 # OUTRAS LINGUAGENS USADAS:
-## ° CSS - Bootstrap - JavaScript - HTML
+##       ° CSS - Bootstrap - JavaScript - HTML
+
+### Backend (Algoritmo em Python):
+### No Algoritmo busquei aplicar as boas práticas seguindo o padrão de Orientação a Objetos, com marcações e comentários sempre que foi necessário, mantendo um clean code para uma fácil interpretação do código a qualquer momento.
 
 
