@@ -3,4 +3,8 @@
 
 # CRUD em PYTHON / Django
 
-## ° Database MySQL usado na aplicação
+## ° MySQL - Database usado na aplicação
+# OUTRAS LINGUAGENS USADAS:
+## ° CSS - Bootstrap - JavaScript - HTML
+
+
