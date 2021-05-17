@@ -6,7 +6,7 @@
 ###       ° MySQL - Database usado na aplicação
 # OUTRAS LINGUAGENS:
 ###       ° CSS - Bootstrap - JavaScript - HTML
-## Backend (Algoritmo em Python):
+## Backend (Algoritmo em Python) :
 ### No Algoritmo busquei aplicar as boas práticas seguindo o padrão de Orientação a Objetos, com marcações e comentários sempre que foi necessário, mantendo um clean code para uma fácil interpretação do código a qualquer momento.
 
 
